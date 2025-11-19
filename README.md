@@ -1,4 +1,4 @@
-### This is a folder for all the projects i have done in data science and analytics
+### This is a folder for all the projects I have done in data science and analytics
 
 ### Each project is organised and uses its own dataset which is also provided
 
