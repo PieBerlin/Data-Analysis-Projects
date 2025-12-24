@@ -4,7 +4,7 @@
 
 ### Different technologies have been used to examine the data and draw conclusion
 
-### What tou need to get started:
+### What you need to get started:
 
 #### Jupyter notebook
 
